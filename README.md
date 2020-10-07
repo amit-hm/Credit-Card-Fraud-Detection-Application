@@ -8,4 +8,7 @@
 * [Set-B.X.csv](https://drive.google.com/file/d/11CxArplWFMktjHa4M-XiZapzzjFRzqUB/view?usp=sharing) : contains information regarding the 100,000 transactions, with slightly modified set of variables (custAttr1, and custAttr2).
 * [Set-B.y.csv](https://drive.google.com/file/d/13jCck_1FSiVooEoX8QdozES5aQafqEWv/view?usp=sharing) : target labels for each of the transaction found in the corresponding Set-B.X.csv dataset, 0 for legitimate and 1 for fraudulent.
 
-
+Following 3 Classifiers have been implemented in the code:
+  1. Logistic Regression based Classifier
+  2. Naive Bayes Classifier
+  3. kNN Classifier
